@@ -4,4 +4,4 @@ The survey paper compiles past insights and findings of Vehicle Re-Identificatio
 
 Contributors:
 1) Harsh Bansal <br>
-2)Priyanshu Shaw
+2) Priyanshu Shaw
